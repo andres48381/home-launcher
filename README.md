@@ -5,6 +5,8 @@
 
 Este proyecto consiste en un ecosistema de control remoto compuesto por una aplicación móvil para **Android 4.4 (KitKat)** desarrollada bajo el entorno **Eclipse ADT** y un script receptor en **Python 3** para Windows. Permite el lanzamiento remoto de aplicaciones del sistema con argumentos, así como la activación de ordenadores apagados mediante el protocolo **Wake-on-LAN (WoL)**.
 
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUmHCKAI5dIb77x6EW0aZngzYeYBBH3Xrw_X0E-x1CPK0YlDo5pvAgfvbgeIoBS7m5Mk4mgpscZmobLL3LSsEL-gfxmbaQADVLgCsX_AkYpK-BAr2tRIgLpSJMMZ6LWjHADMVX3TLyRIwSc7P0fnkokposc_WYnWdipKSV7fcHgeeRoBYJdTU4ssB6sj9f/s899/Captura%20de%20pantalla%202026-11-02%20182306.png)
+
 ## 📱 Características de la Aplicación Android
 
 * **Diseño optimizado (3x6):** Cuadrícula de 18 botones (`ImageButton`) adaptada nativamente mediante `LinearLayout` anidados para garantizar su correcta visualización y compatibilidad en dispositivos antiguos sin depender de librerías externas propensas a fallos de renderizado.
