@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="4dp"> <!-- Color de fondo gris oscuro para verificar que carga -->
+
+    <!-- FILA 0 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+        <ImageButton android:id="@+id/btn_0_0" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_01" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_0_1" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_02" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_0_2" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_03" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_0_3" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_04" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_0_4" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_05" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_0_5" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_06" android:scaleType="fitCenter" android:layout_margin="2dp" />
+    </LinearLayout>
+
+    <!-- FILA 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+        <ImageButton android:id="@+id/btn_1_0" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_07" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_1_1" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_08" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_1_2" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_09" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_1_3" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_10" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_1_4" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_11" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_1_5" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_12" android:scaleType="fitCenter" android:layout_margin="2dp" />
+    </LinearLayout>
+
+    <!-- FILA 2 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+        <ImageButton android:id="@+id/btn_2_0" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_13" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_2_1" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_14" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_2_2" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_15" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_2_3" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_16" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_2_4" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_17" android:scaleType="fitCenter" android:layout_margin="2dp" />
+        <ImageButton android:id="@+id/btn_2_5" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1" android:src="@drawable/controlador_18" android:scaleType="fitCenter" android:layout_margin="2dp" />
+    </LinearLayout>
+
+</LinearLayout>

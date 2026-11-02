@@ -1,7 +1,7 @@
 
 # Control Remoto UDP de 18 Botones (Android KitKat + Python Receiver)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKesfvjpPkhLhtyAYr5VU_jENpBmTVzjYnc0YtnOMvPW0pSnZTHlUN-_Ru6g2iThXNtS4QKDyGUjPIA9miGE-G2oxnrUElJ_XQ0jdkdVFOQK4j6pSxhHfbQjVjSPNOaR7pnOZR3T_bACZmMqPQOo2V3bY7nExXzPmBUXP8VG-W9ifIbAFOSiYt5wlTTIQF/s1269/Captura%20de%20pantalla%202026-10-31%20170604.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglYlhhdXa-S3l9HXqmF2j9kXr_B7eXfjdUQRSjyZ9fa0eH2QQw70PenY6cfpEez21kxwiPpW6m-H8Eyf7_csgXhS0ifc6SAQ7DcIFRlmioZZP4uV0aGapPSLYAdxUISJVabQVxwjWiM6H9U8_ZWMTvdpW0RIVFe-PBsIqjugWRxNwYtlNR8_zIzr_RzXJS/w640-h338/Captura%20de%20pantalla%202026-11-02%20103229.png)
 
 Este proyecto consiste en un ecosistema de control remoto compuesto por una aplicación móvil para **Android 4.4 (KitKat)** desarrollada bajo el entorno **Eclipse ADT** y un script receptor en **Python 3** para Windows. Permite el lanzamiento remoto de aplicaciones del sistema con argumentos, así como la activación de ordenadores apagados mediante el protocolo **Wake-on-LAN (WoL)**.
 
